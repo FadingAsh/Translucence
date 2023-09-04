@@ -13,28 +13,31 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
-	--app-blur: 6px;
-	--app-margin: 24px;
+	--app-bg: url(https://wallpaperaccess.com/full/1720350.jpg);
+	--app-blur: 9px;
+	--app-margin: 2px;
 	--app-radius: 8px; /*	-	*/
 	
-	--accent-hue: 156;
-	--accent-saturation: 77.5%;
-	--accent-lightness: 47.1%;
+	--accent-hue: 3;
+	--accent-saturation: 100%;
+	--accent-lightness: 87.5%;
 	--accent-opacity: 1;
 	--accent-text-color: #000; /*	-	*/
 
-	--sidebar-color: rgba(0,0,0,0.4);
-	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
+	--sidebar-color: rgba(204,126,87,0.5);
+	--main-content-color: rgba(0,0,0,0.25); /*	-	*/
 
 	--message-color: rgba(0,0,0,0.4);
 	--message-radius: 8px;
 	--message-padding-top: 8px;
 	--message-padding-side: 8px; /*	-	*/
-	
-	--reply-hue: 226;
-	--reply-saturation: 77.4%;
-	--reply-lightness: 61.8%;
+	--mention-hue: 20;
+	--mention-saturation: 100%;
+	--mention-lightness: 82.4%;
+	--mention-opacity: 1;
+	--reply-hue: 20;
+	--reply-saturation: 100%;
+	--reply-lightness: 82.4%;
 	--reply-opacity: 1; /*	-	*/
 
 	--textarea-color: 255,255,255;
@@ -43,8 +46,8 @@
 	--textarea-text-color: #fff;
 	--textarea-radius: 22px;  /*	-	*/
 
-	--card-color: rgba(0,0,0,0.4);
-	--card-color-hover: rgba(0,0,0,0.5);
+	--card-color: rgba(204,126,87,0.5);
+	--card-color-hover: rgba(204,126,87,0.6);
 	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
 	
 	--button-height: 32px;
